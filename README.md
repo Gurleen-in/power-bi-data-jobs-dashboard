@@ -48,3 +48,23 @@ The project analyzes 2024 data job postings using a dataset provided through Luk
 The dataset was analyzed in Power BI, with DAX measures used to calculate key metrics such as job counts and median salaries.
 
 The final report was designed as an interactive dashboard with filtering and drill-through functionality, allowing users to move from an overall market view to detailed insights for individual job roles.
+
+
+## 📊 Dashboard 2.0
+
+An improved interactive Power BI dashboard for exploring data job skills, salaries, and job demand.
+
+### Dashboard Preview
+
+![Data Jobs Dashboard 2.0](data-jobs-dashboard-2.0.png)
+
+### Download Power BI Dashboard
+
+[⬇️ Download Data Jobs Dashboard 2.0 (.pbix)](https://drive.google.com/file/d/1ftikvivk0zQy_UX986LepQ5AABNa1j7h/view?usp=sharing)
+
+## 🛠️ Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Visualization
