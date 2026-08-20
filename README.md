@@ -10,8 +10,7 @@ An interactive Power BI dashboard analyzing the 2024 data jobs market, including
 
 The dashboard includes an interactive drill-through page that allows users to select a job title and explore detailed salary and employment insights.
 
-![Job Title Drill Through](Data_Jobs_Dashboard/dashboard_drillthrough.png)
-
+![Job Title Drill Through](https://github.com/user-attachments/assets/71c95a7d-0a3e-4e21-a36b-5a309a1c2ce6)
 ## Key Insights
 
 - The dataset contains approximately 479K data job postings from 2024.
